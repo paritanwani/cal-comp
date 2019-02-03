@@ -8,10 +8,11 @@ In login menu, admin panel is given.
 
 ### For Admin Panel
 1. Run SQL File.
-2. Login to see records of account 
+2. Login to see records of students 
 3. Provide Login Details for admin: 
     username: admin
     password: admin123
-4.  New student record can be added by InsertRrecord link, which will redirect to StudReg.php
+
+4.  New student record can be added by InsertRrecord link, which redirects to StudReg.php
 5. Enter details of student and click register
-6. logout from student records page, press logout and it will redirect to admin page.
+6. logout from student records page, press logout and it redirects to admin page.
